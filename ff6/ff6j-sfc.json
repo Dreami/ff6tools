@@ -2892,7 +2892,7 @@
             "pointerAlign": "0x10000",
             "autoBank": true,
             "array": {
-                "length": 3084
+                "length": 3106
             },
             "assembly": {
                 "type": "text",
@@ -2905,7 +2905,7 @@
             },
             "stringTable": {
                 "name": "Dialogue",
-                "length": 3084,
+                "length": 3106,
                 "default": "<dialog[%i]>"
             }
         },
