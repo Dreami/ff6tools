@@ -2887,7 +2887,7 @@
         "dialog": {
             "type": "array",
             "name": "Dialogue",
-            "range": "0xCD0000-0xCEAFA0",
+            "range": "0xCD0000-0xCEAFFF",
             "align": "0x10000",
             "pointerAlign": "0x10000",
             "autoBank": true,
